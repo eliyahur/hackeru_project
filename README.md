@@ -1,2 +1,4 @@
 # hackeru_project
  HackerU project for filtering lecturers.
+
+This project is a showcase project for the HackerU institute, meant to showcase skills in web development. The project includes an API that provides a list of lecturers to the client-side. The client-side then helps the user to filter out the list in accordance with his preferences. The filtering occurs on the client-side since the expected usage of such a system, in the scale of the HackerU institute, may include only a couple of hundreds of lecturers in the foreseeable future. Because of this, I deemed it more expedient to design the system in such a way as to require minimal requests from the server and concentrate the filtering logic on the client-side.
